@@ -1,0 +1,6 @@
+UPDATE public.properties SET image_url = 'https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80' WHERE title = 'Luxurious 5-Bed Villa in DHA Phase 6';
+UPDATE public.properties SET image_url = 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80' WHERE title = 'Modern 3-Bed Apartment in Bahria Town';
+UPDATE public.properties SET image_url = 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80' WHERE title = 'Prime Commercial Plaza in Clifton';
+UPDATE public.properties SET image_url = 'https://images.unsplash.com/photo-1600607686527-6fb886090705?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80' WHERE title = 'Elegant 4-Bed Bungalow in DHA Phase 8';
+UPDATE public.properties SET image_url = 'https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80' WHERE title = 'Corner Plot 1 Kanal in Bahria Town';
+UPDATE public.properties SET image_url = 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80' WHERE title = 'High-Yield Commercial Office in Clifton';
